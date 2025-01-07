@@ -12,6 +12,7 @@ Welcome to **Tech Bro Python Tutorials**, where Python basics meet tech bro humo
 - `fundamentals.py`: Python basics, variables, and print statements.
 - `lists_and_tuples.py`: Examples of lists, tuples, and dictionaries in action.
 - `sets.py`: Set operations and practical use cases like deduplication.
+- `functions_and_error_handling.py`: Functions for greetings, calculating totals, and error handling.
 
 ## How to Run:
 1. Clone this repository:
