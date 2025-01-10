@@ -32,7 +32,7 @@ Welcome to **Tech Bro Python Tutorials**, where Python basics meet tech bro humo
    ```
 
 ## Contributing:
-Got more humorous examples or new Python tricks? Fork this repo, add your code, and submit a pull request. Let's grow this together!
+Got more humorous examples or Python tricks? Fork this repo, add your code, and submit a pull request. Let's grow this together!
 
 ## License:
 This project is licensed under the MIT License. Feel free to use it, share it, and remix it!
