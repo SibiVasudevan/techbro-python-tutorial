@@ -17,7 +17,7 @@ Welcome to **Tech Bro Python Tutorials**, where Python basics meet tech bro humo
 ## How to Run:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/techbro-python-tutorial.git
+   git clone https://github.com/SibiVasudevan/techbro-python-tutorial.git
    ```
 2. Navigate to the cloned directory:
    ```bash
