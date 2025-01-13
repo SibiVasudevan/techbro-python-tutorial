@@ -13,6 +13,7 @@ Welcome to **Tech Bro Python Tutorials**, where Python basics meet tech bro humo
 - `lists_and_tuples.py`: Examples of lists, tuples, and dictionaries in action.
 - `sets.py`: Set operations and practical use cases like deduplication.
 - `functions_and_error_handling.py`: Functions for greetings, calculating totals, and error handling.
+- `numpy_basics.py`: Basic NumPy operations including arrays, indexing, and reshaping.
 
 ## How to Run:
 1. Clone this repository:
