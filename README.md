@@ -30,6 +30,7 @@ Welcome to **Tech Bro Python Tutorials**, where Python basics meet tech bro humo
    python lists_and_tuples.py
    python sets.py
    python functions_and_error_handling.py
+   python numpy_basics.py
    ```
 
 ## Contributing:
