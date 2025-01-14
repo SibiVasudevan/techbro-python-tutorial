@@ -14,6 +14,7 @@ Welcome to **Tech Bro Python Tutorials**, where Python basics meet tech bro humo
 - `sets.py`: Set operations and practical use cases like deduplication.
 - `functions_and_error_handling.py`: Functions for greetings, calculating totals, and error handling.
 - `numpy_basics.py`: Basic NumPy operations including arrays, indexing, and reshaping.
+- `pandas_basics.py`: Very basic Pandas operations
 
 ## How to Run:
 1. Clone this repository:
@@ -31,6 +32,7 @@ Welcome to **Tech Bro Python Tutorials**, where Python basics meet tech bro humo
    python sets.py
    python functions_and_error_handling.py
    python numpy_basics.py
+   python pandas_basics.py
    ```
 
 ## Contributing:
